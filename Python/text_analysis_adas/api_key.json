@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "serious-courage-246912",
+  "private_key_id": "05396e9ad11de968856792100227369e1c1e3549",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC3gQ867NUnA2Gk\nNOaGiBHCRNsN0T/15Z5i0dF7vdWdNAwAxVLrEnQSm/TyrNERVWwTMR2s6cVP2vFw\nrcByzcmXvIC3QdA7TVNL9Ore7Gei1p7TsVSTAG5ITWfXWXH1OCwfoZGYKpcxT/zX\nra5rTFirHyCnE3SCuvUQSeJAVJhPaCjLdf9u2yk+GXM7zp1+lPMmGE3y6rQggfhD\norFO1+1zSqIFJBeRNvbBraSokSvcQy3X0/Nt+EY1XLgT3L9yF8gVemIuD+TPN0Ar\nagWTp4jzir3d7WLHHnc4fYa3g3uhecP9lxXWwagbcI6felTsLm5TiKIM82CBjNBe\no1ICLCIlAgMBAAECggEACuBq8y6reasBJBcAnPO+vbmQFFMVS/FmwGu4U3HOkglO\nNtN7VTScTagRzjqBD9p00/Ri0mduywtqqSebUxKwgr5pELOlcIZmTAfBziHMCMJY\n2qpVnXr2jnGMGJ8UGplQQDW26AKKQKGBlpUUVAbL8KShLlYAX2lOcj822mJJPteP\nVKQ62kVgA+ibZamuEUTumhOkAJHYf5QYCloTWC1jlroEqqqfxKkn1GVMVAxhsQCj\nldw/EFVzGQ8AOc1iRk+7Dh8wUXsoYYgKag8Zl1l4gjd6M4kvBBGXWLRaUyBEoJhI\nBapMv+SOk4d8ZK8jxK/1DoadvuCehrIiQgcWFp5f0QKBgQDvpBGDZeMm7A2RQB/j\ng5GgN758R01NVRQVCWGF+3n8v0z9Wt1Gt0NCgxmMLRTWC3wASIjCCeDiz2xFoqzG\n7+SlDIegH295rDwHB4xe+3OROj9W/+V9mqwdSoKgF+SrWoA4szg6jO4rST2plxq9\n6m/jQABTpf9pbKpfap9Je3u5TQKBgQDEB/PsM6itDmwD1udSatmuiRuiZ3LCAmLf\nvP+VNwvXMOcch8pL6Ab7N/JjU0Vjqa0COoVKl/TCwlyTNXjatSRzBJUll6P0Egyo\negACXiNvdQUfKf3Xcv0dk3MBz1P2znotz4oHVPGKltDvXkaVNLSTagTHbu+npdPY\nxcuL/S9gOQKBgGokna05n9dJjujbIkS/reztQ+4AFvk9ydtXgF67+Fg+03cUnBYK\nbjwznUk9XpFAHPhzKD/p6DYN8cMWPrkO4JNKbXg69EFMTHpAmagocBPPXObICXoM\n3FdM/XaznpFXUJvMpgcpDQUXN7y6NRoRkOVzH7HtQKgNfZktvMfrbe2xAoGANIQA\n57VLKdlkPH8VB3JSkLxwZ8iY6Lqk7FWAjuPpSyPxtiX2nvEw9ZoeWFeVjkaFb8Rn\nsv0UeByDmnhHwSen9Rw0LJb8OEWhmHzehcPccF6EGb4xH8fRYVwAAmsdjk/wUVd5\nHc+2ya7vmEDEXfJ5schEMX1ZvKrjHv6WMhGI4JkCgYAChnoTivPoIXLbh9jBgO8j\nZGjqsmtSY2pAgaZZGkFVhmkIKshAAIhkPY8Hi3Fbnz85kdSoezEJIoy3TkYu1QPy\nqvmm37mZ6nXt/WSV4LqLRVqjn8y+4hZhWGNQBJE0XRr65AD18D7wCFSfqt24vQlD\ncyNsQ/cSPN6BZ2J199My8w==\n-----END PRIVATE KEY-----\n",
+  "client_email": "newnexus@serious-courage-246912.iam.gserviceaccount.com",
+  "client_id": "109813902309237544452",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/newnexus%40serious-courage-246912.iam.gserviceaccount.com"
+}

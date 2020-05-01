@@ -1,0 +1,2 @@
+// List of datasets
+curl "https://api.mapbox.com/datasets/v1/tychohorn?access_token=sk.eyJ1IjoidHljaG9ob3JuIiwiYSI6ImNrM2hlbmNldDA5YWUzaG1yZTNkOHlzYXgifQ.jQPFT0lhcYFPkBzWSA-EVg"
